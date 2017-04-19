@@ -3,7 +3,7 @@
         <ul class="nav" id="main-menu">
             <li>
                 <div class="user-img-div">
-                    <img src="assets/img/user.jpg" class="img-circle" />
+                    <img src="{{asset('img/user.jpg')}}" class="img-circle" />
 
 
                 </div>

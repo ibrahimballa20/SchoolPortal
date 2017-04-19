@@ -173,13 +173,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="alert alert-danger">
-                        This is a free admin dashboard temple for personal and commercial use. Use this template for your projecs and save you money and time. Hope you will like it.
-                    </div>
-                </div>
-            </div>
+
             <div class="row">
                 <div class=" col-md-4 col-sm-4">
                     <div class="table-responsive">
@@ -234,43 +228,13 @@
                             </tbody>
                         </table>
                     </div>
-                    <div class="alert  alert-info">
-                        <div class="current-notices">
 
-                            <h3>Current Notices :</h3>
-                            <hr />
-                            <ul>
-                                <li>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                </li>
-                                <li>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                </li>
-                                <li>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                </li>
-                                <li>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
 
                 </div>
 
 
                 <div class=" col-md-8 col-sm-8">
-                    <div class="list-group">
-                        <a href="#" class="list-group-item active">
-                            <h4 class="list-group-item-heading">List Group Heading</h4>
-                            <p class="list-group-item-text" style="line-height: 30px;">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            </p>
-                        </a>
-                    </div>
+
                     <br />
                     <h2> Bootstrap Media Objects</h2>
                     <br />
